@@ -1,0 +1,7 @@
+{
+  "name": "智赢 · SmartWin Lab - 量化猎手会员系统 2.0",
+  "description": "基于AI驱动的金融量化交易生态平台，提供全方位的会员服务、EA策略支持、天梯竞技赛及社区共创功能。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
